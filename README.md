@@ -1,0 +1,1 @@
+Data assimilation code, neural network, and its weights for Chapter 5 of my doctoral thesis Preparing the Initial Conditions for Numerical Weather Prediction with Machine Learning (University of Ljubljana, 2026).
