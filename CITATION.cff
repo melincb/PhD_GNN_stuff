@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+authors:
+- family-names: "Melinc"
+  given-names: "Boštjan"
+  orcid: "https://orcid.org/0009-0006-1417-7212"
+- family-names: "Zaplotnik"
+  given-names: "Žiga"
+  orcid: "https://orcid.org/0000-0002-6012-0480"
+title: "PhD_GNN_stuff"
+version: 1.0.0
+date-released: 2026-08-21
+url: "https://github.com/melincb/PhD_GNN_stuff"
+
+preferred-citation:
+  type: thesis
+  authors:
+    - family-names: "Melinc"
+      given-names: "Boštjan"
+  title: "Preparing the Initial Conditions for Numerical Weather Prediction with Machine Learning"
+  year: 2026
+  thesis-type: "PhD thesis"
+  institution:
+    name: "University of Ljubljana"
+  
